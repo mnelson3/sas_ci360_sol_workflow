@@ -1,4 +1,4 @@
-# sas_ci360_sol_workflow
+# SAS CI360 Workflow
 
 Historical Python client for the SAS Customer Intelligence 360 **Workflow** APIs, retained as a reference. It is part of the `sas-ci360` family of solution packages, alongside packages for identity, execution, data, content delivery, and planning.
 
