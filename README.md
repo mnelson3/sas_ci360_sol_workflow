@@ -1,5 +1,7 @@
 # SAS CI360 Workflow
 
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/mnelson3/sas_ci360_sol_workflow/blob/develop/LICENSE)
+
 Historical Python client for the SAS Customer Intelligence 360 **Workflow** APIs, retained as a reference. It is part of the `sas-ci360` family of solution packages, alongside packages for identity, execution, data, content delivery, and planning.
 
 > This package is superseded by [`sas-ci360-sdk`](https://github.com/mnelson3/sas-ci360-sdk), which holds the maintained implementation. Use this repository for reference only.
